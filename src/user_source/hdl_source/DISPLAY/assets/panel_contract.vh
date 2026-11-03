@@ -1,0 +1,51 @@
+// Generated from approved preview05.
+`ifndef F11_PANEL_CONTRACT
+`define F11_PANEL_CONTRACT
+`define PANEL_STATE_W 55
+`define P_STAGE 54:53
+`define P_BANK 52:51
+`define P_EFFECT 50:48
+`define P_DIR 47:47
+`define P_METRIC 46:40
+`define P_GAIN 39:37
+`define P_V0 36:34
+`define P_V1 33:31
+`define P_V2 30:28
+`define P_M0 27:25
+`define P_M1 24:22
+`define P_M2 21:19
+`define P_FILL 18:15
+`define P_UNFOLD 14:11
+`define P_FOCUS 10:7
+`define P_FRACTION 6:6
+`define P_EMPHASIS 5:5
+`define P_CORNER_GAIN 4:2
+`define P_DECOR 1:1
+`define P_STEAM 0:0
+`define P_FIRST_0 0
+`define P_LAST_0 5
+`define P_SAMPLES_0 490164
+`define P_OFFSET_0 100800
+`define P_FIRST_1 6
+`define P_LAST_1 102
+`define P_SAMPLES_1 446061
+`define P_OFFSET_1 590964
+`define P_FIRST_2 103
+`define P_LAST_2 251
+`define P_SAMPLES_2 410285
+`define P_OFFSET_2 1037025
+`define P_FIRST_3 252
+`define P_LAST_3 364
+`define P_SAMPLES_3 382845
+`define P_OFFSET_3 1447310
+`define P_TAIL_FIRST 365
+`define P_TAIL_LAST 414
+`define P_CTRL_FIRST_0 0
+`define P_CTRL_LAST_0 1754
+`define P_CTRL_FIRST_1 1755
+`define P_CTRL_LAST_1 1988
+`define P_CTRL_FIRST_2 1989
+`define P_CTRL_LAST_2 2174
+`define P_CTRL_FIRST_3 2175
+`define P_CTRL_LAST_3 2387
+`endif
