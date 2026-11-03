@@ -1,0 +1,27 @@
+# TD-generated outputs
+**/*_Runs/
+**/log/
+**/out/
+*.bit
+*.db
+*.log
+*.logw
+*.qor
+*.timing
+*.area
+# Simulation and caches
+**/work/
+**/sim_work/
+*.wlf
+*.vcd
+**/__pycache__/
+# Private local files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+Thumbs.db
+Desktop.ini
+# Keep .al, .ipc, .tcl, .adc, .sdc, .cwc, .vh and required .mif inputs.
